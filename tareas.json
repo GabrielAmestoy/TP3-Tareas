@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "title1",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "title2",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "title3",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "title4",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "title5",
+    "estado": "pero"
+  },
+  {
+    "titulo": "title6",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "title7",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "title8",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "title9",
+    "estado": "terminado"
+  }
+]
